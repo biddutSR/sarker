@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    
+    background-image: url("./rain.jpeg");
+   
+  }
+  
+ 
+  
+ 
+  
+ 
+  .topnap {
+    overflow: hidden;
+    background-color: rgb(207, 16, 16);
+  }
+  .topnap a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+  .topnap a:hover {
+    background-color: rgb(250, 244, 244);
+    color: black;
+  }
+  .topnap a.active {
+    background-color: #3004aa;
+    color: white;
+  }
+  .footer{
+    background-color: rgb(70, 20, 185);
+    color: rgb(226, 25, 25);
+    text-align: center;
+  }
+  .a{
+    color: rgb(22, 22, 22);
+  }
+  .b{
+    color: rgb(22, 22, 22);
+  }
+  
+  
+  
+  iframe {
+    display: block;
+  }
+  .footer{
+    background-image: url(./banner-1571858_960_720.jpg)
+ 
+
+  }
+ #div2{
+   text-align: left;
+ }
+ 
